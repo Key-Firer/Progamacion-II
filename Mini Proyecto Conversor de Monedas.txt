@@ -1,0 +1,10 @@
+Mini Proyecto: Convertidor de Temperatura
+
+
+Descripción breve: Convierte entre Celsius, Fahrenheit y Kelvin, con entrada numérica y selección de unidades.
+
+Elementos Tkinter: Campo de entrada (Entry) para valor, botones para convertir, etiquetas para resultados, posiblemente un menú desplegable (OptionMenu) para unidades.
+
+Integración con estructuras de datos: Usa un diccionario para fórmulas de conversión (clave: par de unidades, valor: función o factor). Tuplas para listas de unidades fijas (inmutables).
+
+Crear un ejecutable .exe
