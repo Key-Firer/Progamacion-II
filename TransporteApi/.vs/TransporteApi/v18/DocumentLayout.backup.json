@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|c:\\users\\macbook air\\desktop\\tarea-2---realice-un-crud-api-en-asp.net\\transporteapi\\transporteapi\\models\\controllers\\transporteopcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|solutionrelative:transporteapi\\models\\controllers\\transporteopcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|c:\\users\\macbook air\\desktop\\tarea-2---realice-un-crud-api-en-asp.net\\transporteapi\\transporteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|solutionrelative:transporteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|c:\\users\\macbook air\\desktop\\tarea-2---realice-un-crud-api-en-asp.net\\transporteapi\\transporteapi\\migrations\\20250936014800_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|solutionrelative:transporteapi\\migrations\\20250936014800_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|c:\\users\\macbook air\\desktop\\tarea-2---realice-un-crud-api-en-asp.net\\transporteapi\\transporteapi\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|solutionrelative:transporteapi\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|c:\\users\\macbook air\\desktop\\tarea-2---realice-un-crud-api-en-asp.net\\transporteapi\\transporteapi\\models\\transporteopcion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|solutionrelative:transporteapi\\models\\transporteopcion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|c:\\users\\macbook air\\desktop\\tarea-2---realice-un-crud-api-en-asp.net\\transporteapi\\transporteapi\\models\\transporteopcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|solutionrelative:transporteapi\\models\\transporteopcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|c:\\users\\macbook air\\desktop\\tarea-2---realice-un-crud-api-en-asp.net\\transporteapi\\transporteapi\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4A53FFC-B719-4502-9189-53F83AFD7670}|TransporteApi\\TransporteApi.csproj|solutionrelative:transporteapi\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransporteOpcion1.cs",
+              "DocumentMoniker": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Models\\TransporteOpcion1.cs",
+              "RelativeDocumentMoniker": "TransporteApi\\Models\\TransporteOpcion1.cs",
+              "ToolTip": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Models\\TransporteOpcion1.cs*",
+              "RelativeToolTip": "TransporteApi\\Models\\TransporteOpcion1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:46:20.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250936014800_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Migrations\\20250936014800_Inicial.cs",
+              "RelativeDocumentMoniker": "TransporteApi\\Migrations\\20250936014800_Inicial.cs",
+              "ToolTip": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Migrations\\20250936014800_Inicial.cs",
+              "RelativeToolTip": "TransporteApi\\Migrations\\20250936014800_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:38:08.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Models\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TransporteApi\\Models\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Models\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "TransporteApi\\Models\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:38:09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Program.cs",
+              "RelativeDocumentMoniker": "TransporteApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Program.cs*",
+              "RelativeToolTip": "TransporteApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:38:08.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransporteOpcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Models\\Controllers\\TransporteOpcionesController.cs",
+              "RelativeDocumentMoniker": "TransporteApi\\Models\\Controllers\\TransporteOpcionesController.cs",
+              "ToolTip": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Models\\Controllers\\TransporteOpcionesController.cs*",
+              "RelativeToolTip": "TransporteApi\\Models\\Controllers\\TransporteOpcionesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:38:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TransporteApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\appsettings.json",
+              "RelativeToolTip": "TransporteApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T19:42:28.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransporteOpcion.cs",
+              "DocumentMoniker": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Models\\TransporteOpcion.cs",
+              "RelativeDocumentMoniker": "TransporteApi\\Models\\TransporteOpcion.cs",
+              "ToolTip": "C:\\Users\\Macbook Air\\Desktop\\Tarea-2---Realice-un-CRUD-API-en-ASP.NET\\TransporteApi\\TransporteApi\\Models\\TransporteOpcion.cs",
+              "RelativeToolTip": "TransporteApi\\Models\\TransporteOpcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:38:09.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
